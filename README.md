@@ -1,0 +1,1 @@
+Ce répertoire contient deux des programmes réalisés au cours du stage (générateur de séquences et FoRSA global python) ainsi que des boîtes à moustaches résumant certaines informations pour les structures du jeu de données non présentées dans le rapport.
